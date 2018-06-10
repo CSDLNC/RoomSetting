@@ -1,0 +1,9 @@
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\bin\Debug\HotelManagement.exe.config
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\bin\Debug\HotelManagement.exe
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\bin\Debug\HotelManagement.pdb
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\obj\Debug\HotelManagement.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\obj\Debug\HotelManagement.RoomSetting.resources
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\obj\Debug\HotelManagement.exe
+\\Mac\Home\Downloads\CSDLNC\RoomSetting-master\RoomSetting-master\SourceCode\HotelManagement\obj\Debug\HotelManagement.pdb
