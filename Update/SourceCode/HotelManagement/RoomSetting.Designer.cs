@@ -121,8 +121,9 @@
             // 
             // STT
             // 
-            this.STT.HeaderText = "STT";
+            this.STT.HeaderText = "Mã khách sạn";
             this.STT.Name = "STT";
+            this.STT.Width = 133;
             // 
             // tenKS
             // 
